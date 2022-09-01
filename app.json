@@ -27,8 +27,7 @@
     "API_HASH": {
       "description": "Get this value from https://my.telegram.org",
       "value": ""
-    }        
-    },
+    }       
     "FORCE_SUB_CHANNEL":{
       "description": "id of the channel or group, if you want enable force sub feature else put 0",
       "value": "0"
