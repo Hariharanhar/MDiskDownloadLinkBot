@@ -8,7 +8,7 @@ Inspired from:  https://github.com/missemily2022/mdisk-dl
 
 
 ### Deploy To Heroku
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/AswanthVK/MDiskDownloadLinkBot)
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/Hariharanhar/MDiskDownloadLinkBot)
 
 ## Configs
 
